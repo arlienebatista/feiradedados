@@ -5,10 +5,8 @@ Um jogo pedagógico e interativo desenvolvido para ensinar os conceitos básicos
 ---
 
 ## 📸 Screenshot
-> É altamente recomendado adicionar um GIF ou uma imagem do jogo em ação aqui para atrair o interesse dos visitantes.
 
 ![Screenshot ou GIF do Jogo Feira de Dados](./feiradedados.png)
-*Substitua a imagem acima por um GIF/PNG real do jogo.*
 
 ---
 
@@ -60,7 +58,7 @@ O **Feira de Dados** simula um cenário de vendas em uma feira para que os jogad
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/feiradedados.git
+git clone https://github.com/arlienebatista/feiradedados.git
 
 # Navegue até a pasta do projeto
 cd feiradedados
