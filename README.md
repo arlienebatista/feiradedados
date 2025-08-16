@@ -1,4 +1,4 @@
-# Feira de Dados 🎲
+# Simulador do Feira de Dados 🎲
 
 Um jogo pedagógico e interativo desenvolvido para ensinar os conceitos básicos de **Ciência de Dados** de forma simples, visual e **desplugada** de complexidades técnicas. Utilizando a metáfora de uma feira com produtos regionais da Amazônia (**Açaí**, **Castanha** e **Mandioca**), o jogador vivencia o ciclo completo da análise de dados: **coleta**, **organização**, **visualização** e **interpretação**.
 
